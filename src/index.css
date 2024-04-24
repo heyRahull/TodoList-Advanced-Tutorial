@@ -27,6 +27,8 @@ code {
   }
   .list-container > li:first-child {
     margin-left: 10px !important;
+    word-wrap: break-word !important;
+    width: 65% !important;
   }
 
   .App input:first-of-type {
