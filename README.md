@@ -9,7 +9,7 @@ This project is a simple todo list application with the following features:
 - Add tasks to your list
 - Remove tasks from your list
 - Display completed tasks in a separate list
-- Mark tasks as completed using checkbox
+- Mark tasks as completed using checkbox.
 - Edit existing tasks
 
 ## Screenshots
