@@ -107,6 +107,7 @@ function App() {
           );
         })}
       </ul>
+      <h3>Created with ❤️ by Rahul Agarwal</h3>
     </div>
   );
 }
