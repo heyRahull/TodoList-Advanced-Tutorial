@@ -30,11 +30,11 @@ code {
   }
 
   .App input:first-of-type {
-    width: 50% !important;
+    width: 55% !important;
   }
 
   .list-container input[type="checkbox"] {
-    width: 10% !important;
+    width: 3% !important;
   }
 }
 
