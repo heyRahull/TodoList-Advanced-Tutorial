@@ -50,4 +50,4 @@ This project is a simple todo list application with the following features:
 
 ## Credits
 
-This project was created by the one & only Rahul Agarwal.😉
+This project is created by the one & only Rahul Agarwal.😉
