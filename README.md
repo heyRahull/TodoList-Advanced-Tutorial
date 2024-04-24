@@ -17,6 +17,7 @@ This project is a simple todo list application with the following features:
 ### Add Task
 
 ![Add Task Image 1](./src/images/addTask1.png)
+![Add Task Image 2](./src/images/addTask2.png)
 
 ### Remove Task
 
