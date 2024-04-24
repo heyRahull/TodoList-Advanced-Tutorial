@@ -6,11 +6,11 @@
 
 This project is a simple todo list application with the following features:
 
-- Add tasks to your list
-- Remove tasks from your list
-- Display completed tasks in a separate list
-- Mark tasks as completed using checkbox.
-- Edit existing tasks
+1. Add tasks to your list
+2. Remove tasks from your list
+3. Display completed tasks in a separate list
+4. Mark tasks as completed using checkbox.
+5. Edit existing tasks
 
 ## Screenshots
 
@@ -21,36 +21,33 @@ This project is a simple todo list application with the following features:
 
 ### Remove Task
 
-![Remove Task](images/remove_task.png)
+![Remove Task](./src/images/removetask.png)
 
 ### Display Completed Tasks
 
-![Completed Tasks](images/completed_tasks.png)
+![Completed Tasks](./src/images/displayCompleted.png)
 
 ### Mark Task as Completed
 
-![Mark Task as Completed](images/mark_task_completed.png)
+![Mark Task as Completed](./src/images/markAsCompleted.png)
 
 ### Edit Task
 
-![Edit Task](images/edit_task.png)
+![Edit Task](./src/images/editTask.png)
 
 ## Usage
 
 - Clone the repository
-- Open `index.html` in your browser
-- Start managing your tasks!
+- Run npm install
+- Start your development server npm start.
 
 ## Technologies Used
 
+- Primary : ReactJs
 - HTML
 - CSS
 - JavaScript
 
 ## Credits
 
-This project was created by [Your Name].
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project was created by the one & only Rahul Agarwal.😉
