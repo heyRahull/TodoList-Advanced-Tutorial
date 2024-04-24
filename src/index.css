@@ -15,9 +15,11 @@ code {
 @media (max-width: 767px) {
   button {
     width: auto !important;
+    margin: 5px !important;
   }
   .list-container {
     height: auto !important;
+    padding-right: 5px !important;
   }
   .container {
     margin: 10px !important;
@@ -26,8 +28,13 @@ code {
   .list-container > li:first-child {
     margin-left: 10px !important;
   }
+
   .App input:first-of-type {
     width: 50% !important;
+  }
+
+  .list-container input[type="checkbox"] {
+    width: 10% !important;
   }
 }
 
